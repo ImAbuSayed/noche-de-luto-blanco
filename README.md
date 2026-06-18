@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-luto-blanco/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Noche de luto blanco](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-luto-blanco/) |
+| **Get License** | [Music Rights & Licensing for Noche de luto blanco](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-luto-blanco/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5e694eb7abc40bb302bb193c8adaa8a23e6ecc11a8cd9c34c8341cef0733ef01` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
